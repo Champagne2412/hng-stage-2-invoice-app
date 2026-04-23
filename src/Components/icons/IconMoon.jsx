@@ -1,0 +1,11 @@
+import React from 'react'
+
+const IconMoon = () => {
+  return (
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+    <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+  </svg>
+  )
+}
+
+export default IconMoon
