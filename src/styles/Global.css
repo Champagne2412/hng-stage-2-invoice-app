@@ -79,6 +79,13 @@ body {
   z-index: 800;
   padding-bottom: 24px;
 }
+.btn-danger {
+  background: #ec5757;
+  color: #fff;
+}
+.btn-danger:hover {
+  background: #ff9797;
+}
 @media (max-width: 768px) {
   .sidebar {
     position: relative;
